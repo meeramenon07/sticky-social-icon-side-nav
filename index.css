@@ -1,0 +1,30 @@
+body{
+  margin:0;
+  height:2000px;
+  
+  color:black ;
+}
+.text{
+  font-size:20px;
+  margin-left:70px;
+}
+.social-nav{
+  top:50%;
+  position :fixed;
+  -webkit-transform:translateY(-50%);
+  -ms-transform:translateY(-50%);
+  transform:translateY(-50%);
+}
+.social-nav a{
+  display:block;
+ text-align:center;
+ padding:20px;
+  color:white;
+font-size:15px;
+  background :lightgrey;
+  
+  
+}
+h4{
+  font-size:16px;
+}
